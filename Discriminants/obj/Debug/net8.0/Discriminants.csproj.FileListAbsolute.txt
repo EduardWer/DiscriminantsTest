@@ -1,0 +1,11 @@
+C:\Users\Eduard\RiderProjects\Discriminants\Discriminants\bin\Debug\net8.0\Discriminants.deps.json
+C:\Users\Eduard\RiderProjects\Discriminants\Discriminants\bin\Debug\net8.0\Discriminants.dll
+C:\Users\Eduard\RiderProjects\Discriminants\Discriminants\bin\Debug\net8.0\Discriminants.pdb
+C:\Users\Eduard\RiderProjects\Discriminants\Discriminants\obj\Debug\net8.0\Discriminants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduard\RiderProjects\Discriminants\Discriminants\obj\Debug\net8.0\Discriminants.AssemblyInfoInputs.cache
+C:\Users\Eduard\RiderProjects\Discriminants\Discriminants\obj\Debug\net8.0\Discriminants.AssemblyInfo.cs
+C:\Users\Eduard\RiderProjects\Discriminants\Discriminants\obj\Debug\net8.0\Discriminants.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\RiderProjects\Discriminants\Discriminants\obj\Debug\net8.0\Discriminants.dll
+C:\Users\Eduard\RiderProjects\Discriminants\Discriminants\obj\Debug\net8.0\refint\Discriminants.dll
+C:\Users\Eduard\RiderProjects\Discriminants\Discriminants\obj\Debug\net8.0\Discriminants.pdb
+C:\Users\Eduard\RiderProjects\Discriminants\Discriminants\obj\Debug\net8.0\ref\Discriminants.dll
